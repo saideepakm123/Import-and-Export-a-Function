@@ -1,3 +1,3 @@
 let result = require("./exportFunction.js");
 
-result();
+console.log(result);
